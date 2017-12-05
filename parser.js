@@ -10,12 +10,28 @@ const foxycmd = 'foxycmd';
 const foxycmderror = 'foxycmderror';
 var SpotifyConn= require('./spotify');
 const timezone = require('./libs/timezone');
+var childProcess = require('child_process');
 
 var logOpts = {
   logDirectory: __dirname + '/logs' ,
   fileNamePattern: 'foxy-<date>.log',
   dateFormat:'YYYY.MM.DD-HHa'
 };
+
+let decodeArgs = [
+  'opusenc',
+  '--raw',
+  '--raw-rate',
+  '16000',
+  '--raw-bits',
+  '16',
+  '--raw-chan',
+  '1',
+  '--raw-endianness',
+  '0',
+  '-',
+  '-'
+];
 
 var logger = require('simple-node-logger').createRollingFileLogger(logOpts);
 logger.setLevel('debug');
@@ -48,7 +64,7 @@ Parser.prototype.setMetrics = function(visitor, uuid) {
 };*/
 
 const asrOptions = {
-  uri: 'http://52.53.97.165/asr',
+  uri: 'https://speaktome.services.mozilla.com',
   method: 'POST',
   body: '',
   headers: {'Content-Type': 'application/octet-stream'},
@@ -90,6 +106,9 @@ Parser.prototype.parseResults = function(foxyBuffer, callback) {
     cd1: gUuid
   };
   
+  // Convert the audio to Opus.
+  asrOptions.body = this.convertToOpus(foxyBuffer);
+  
   logger.debug('sending to kaldi:');
   
   // Send the speech buffer to Kaldi
@@ -107,7 +126,8 @@ Parser.prototype.parseResults = function(foxyBuffer, callback) {
       utterance = speechBody.query;
       logger.debug('utterance is: ' + utterance);
       aiOptions.body = JSON.stringify(speechBody);
-      callback('ok');
+	  //Passing the kaldi return back to be processed for the BoW
+      callback('ok', speechBody);
     })
     .catch(function(err) {
       callback('error');
@@ -229,6 +249,15 @@ function parseAIBody(aiBody, theUtterance) {
   }
   return payload;
 }*/
+
+Parser.prototype.convertToOpus = function(rawBuffer) {
+  let args = decodeArgs;
+  const opusdec = childProcess.spawn(args[0], args.slice(1),
+    {stdio: ['pipe', 'pipe', 'pipe']});
+  opusdec.stdin.write(rawBuffer);
+  opusdec.stdin.end();
+  return opusdec.stdout;
+}
 
 function getAiBody(asrBody) {
   let conf = 0;

@@ -1,0 +1,3567 @@
+{
+  "uts": [
+    {
+      "timestamp": 1512390981262,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "close",
+          "down"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "CLOSE DOWN",
+      "raw": {
+        "v": "20150910",
+        "query": "CLOSE DOWN",
+        "lang": "en",
+        "sessionId": "2243b2f3-96f3-4eeb-83a7-50788e55e58f",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512391022014,
+      "sentiment": {
+        "score": -3,
+        "comparative": -0.75,
+        "tokens": [
+          "i",
+          "think",
+          "so",
+          "bad"
+        ],
+        "words": [
+          "bad"
+        ],
+        "positive": [],
+        "negative": [
+          "bad"
+        ]
+      },
+      "body": "I THINK SO BAD",
+      "raw": {
+        "v": "20150910",
+        "query": "I THINK SO BAD",
+        "lang": "en",
+        "sessionId": "1dddd02a-d06c-4938-b8cb-374957e23a3f",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512391075674,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "that's",
+          "not",
+          "ishan"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "THAT'S NOT ISHAN",
+      "raw": {
+        "v": "20150910",
+        "query": "THAT'S NOT ISHAN",
+        "lang": "en",
+        "sessionId": "2968c336-2348-4b16-9eed-caa79b06fb10",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512391114855,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "check",
+          "orange",
+          "now"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "CHECK ORANGE NOW",
+      "raw": {
+        "v": "20150910",
+        "query": "CHECK ORANGE NOW",
+        "lang": "en",
+        "sessionId": "68996afd-f693-4969-94ed-3edca132af89",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512391189575,
+      "sentiment": {
+        "score": 3,
+        "comparative": 0.6,
+        "tokens": [
+          "you",
+          "must",
+          "be",
+          "nice",
+          "name"
+        ],
+        "words": [
+          "nice"
+        ],
+        "positive": [
+          "nice"
+        ],
+        "negative": []
+      },
+      "body": "YOU MUST BE NICE NAME",
+      "raw": {
+        "v": "20150910",
+        "query": "YOU MUST BE NICE NAME",
+        "lang": "en",
+        "sessionId": "c96edfe5-b4b7-470b-8f7f-ecf4710a63cb",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512391841902,
+      "sentiment": {
+        "score": 3,
+        "comparative": 0.75,
+        "tokens": [
+          "what",
+          "good",
+          "are",
+          "you"
+        ],
+        "words": [
+          "good"
+        ],
+        "positive": [
+          "good"
+        ],
+        "negative": []
+      },
+      "body": "WHAT GOOD ARE YOU",
+      "raw": {
+        "v": "20150910",
+        "query": "WHAT GOOD ARE YOU",
+        "lang": "en",
+        "sessionId": "93b9ccb0-38fd-4179-b81a-74ac51867e85",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512391984864,
+      "sentiment": {
+        "score": -3,
+        "comparative": -0.75,
+        "tokens": [
+          "are",
+          "you",
+          "can",
+          "suck"
+        ],
+        "words": [
+          "suck"
+        ],
+        "positive": [],
+        "negative": [
+          "suck"
+        ]
+      },
+      "body": "ARE YOU CAN SUCK",
+      "raw": {
+        "v": "20150910",
+        "query": "ARE YOU CAN SUCK",
+        "lang": "en",
+        "sessionId": "bdf46c30-34bc-4c5b-8a34-0bbaf7ca7bed",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512392056788,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "what",
+          "time",
+          "is",
+          "it"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WHAT TIME IS IT",
+      "raw": {
+        "v": "20150910",
+        "query": "WHAT TIME IS IT",
+        "lang": "en",
+        "sessionId": "e22b595e-489c-4b9c-9e94-80764423a029",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512392301111,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "why",
+          "does",
+          "my",
+          "understand",
+          "this"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WHY DOES MY UNDERSTAND THIS",
+      "raw": {
+        "v": "20150910",
+        "query": "WHY DOES MY UNDERSTAND THIS",
+        "lang": "en",
+        "sessionId": "d29a1728-8195-41f1-ab46-3d088fa1af19",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512392531872,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "testing",
+          "testing",
+          "one",
+          "two",
+          "two",
+          "four"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "TESTING TESTING ONE TWO TWO FOUR",
+      "raw": {
+        "v": "20150910",
+        "query": "TESTING TESTING ONE TWO TWO FOUR",
+        "lang": "en",
+        "sessionId": "839a9c38-b100-4235-b6cf-e8435dd5d216",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512392656166,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "see",
+          "you",
+          "street",
+          "fireworks"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "SEE YOU STREET FIREWORKS",
+      "raw": {
+        "v": "20150910",
+        "query": "SEE YOU STREET FIREWORKS",
+        "lang": "en",
+        "sessionId": "0521494c-06ea-41af-b949-28397ca577a9",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512392823167,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "call",
+          "temp",
+          "that",
+          "again",
+          "again",
+          "again"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "CALL TEMP THAT AGAIN AGAIN AGAIN",
+      "raw": {
+        "v": "20150910",
+        "query": "CALL TEMP THAT AGAIN AGAIN AGAIN",
+        "lang": "en",
+        "sessionId": "78c61acb-4d4f-467f-806e-87af605307d1",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512393085917,
+      "sentiment": {
+        "score": -4,
+        "comparative": -0.5714285714285714,
+        "tokens": [
+          "are",
+          "you",
+          "a",
+          "my",
+          "fucking",
+          "around",
+          "me"
+        ],
+        "words": [
+          "fucking"
+        ],
+        "positive": [],
+        "negative": [
+          "fucking"
+        ]
+      },
+      "body": "ARE YOU A MY FUCKING AROUND ME",
+      "raw": {
+        "v": "20150910",
+        "query": "ARE YOU A MY FUCKING AROUND ME",
+        "lang": "en",
+        "sessionId": "79b65537-7897-4108-9299-d79322175bd0",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512393096723,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "my",
+          "name",
+          "is",
+          "for",
+          "sentiment"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "MY NAME IS FOR SENTIMENT",
+      "raw": {
+        "v": "20150910",
+        "query": "MY NAME IS FOR SENTIMENT",
+        "lang": "en",
+        "sessionId": "565d0623-d235-4f75-b671-fb03490ae3e4",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512394727617,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "the",
+          "this",
+          "one"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "THE THIS ONE",
+      "raw": {
+        "v": "20150910",
+        "query": "THE THIS ONE",
+        "lang": "en",
+        "sessionId": "89735fcc-90d3-46f2-b7c0-4ea35d54a5bc",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512394730406,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "that",
+          "the",
+          "song"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "THAT THE SONG",
+      "raw": {
+        "v": "20150910",
+        "query": "THAT THE SONG",
+        "lang": "en",
+        "sessionId": "b7088113-cdd1-47ca-8340-70dc1cbac25d",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512394862411,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "ok",
+          "inclusive",
+          "both",
+          "ways"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "OK INCLUSIVE BOTH WAYS",
+      "raw": {
+        "v": "20150910",
+        "query": "OK INCLUSIVE BOTH WAYS",
+        "lang": "en",
+        "sessionId": "388bc2af-8130-41ac-a977-bbae0a6b587a",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512394867011,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "should",
+          "work",
+          "with",
+          "times"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "SHOULD WORK WITH TIMES",
+      "raw": {
+        "v": "20150910",
+        "query": "SHOULD WORK WITH TIMES",
+        "lang": "en",
+        "sessionId": "55329e96-6120-44bf-bd87-64fceb3902c0",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512394969539,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "you",
+          "must",
+          "have",
+          "a",
+          "thing",
+          "in",
+          "the",
+          "list"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "YOU MUST HAVE A THING IN THE LIST",
+      "raw": {
+        "v": "20150910",
+        "query": "YOU MUST HAVE A THING IN THE LIST",
+        "lang": "en",
+        "sessionId": "6e2fcac3-475c-418d-91c4-fe9413343368",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512395240174,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "nothing",
+          "attempt",
+          "to",
+          "sing"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "NOTHING ATTEMPT TO SING",
+      "raw": {
+        "v": "20150910",
+        "query": "NOTHING ATTEMPT TO SING",
+        "lang": "en",
+        "sessionId": "b4166076-59dc-400e-bdbb-48ca8cb8372a",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512395775141,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "be",
+          "properties",
+          "in",
+          "the",
+          "time"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "BE PROPERTIES IN THE TIME",
+      "raw": {
+        "v": "20150910",
+        "query": "BE PROPERTIES IN THE TIME",
+        "lang": "en",
+        "sessionId": "d319c231-74a3-44b2-95c3-90d9036ea715",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512396442538,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "convert",
+          "jason",
+          "last",
+          "time",
+          "you"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "CONVERT JASON LAST TIME YOU",
+      "raw": {
+        "v": "20150910",
+        "query": "CONVERT JASON LAST TIME YOU",
+        "lang": "en",
+        "sessionId": "b74fed10-038c-42cd-b8b2-3833ff0ffb1a",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512396807084,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "can",
+          "you",
+          "connect",
+          "to",
+          "the",
+          "thing"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "CAN YOU CONNECT TO THE THING",
+      "raw": {
+        "v": "20150910",
+        "query": "CAN YOU CONNECT TO THE THING",
+        "lang": "en",
+        "sessionId": "97858531-4d6c-4f2d-b1a7-03455b0725e7",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512396877829,
+      "sentiment": {
+        "score": -1,
+        "comparative": -0.5,
+        "tokens": [
+          "cancel",
+          "that"
+        ],
+        "words": [
+          "cancel"
+        ],
+        "positive": [],
+        "negative": [
+          "cancel"
+        ]
+      },
+      "body": "CANCEL THAT",
+      "raw": {
+        "v": "20150910",
+        "query": "CANCEL THAT",
+        "lang": "en",
+        "sessionId": "17dd78fa-5da1-4c10-aabb-7c0c7727850f",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512396944087,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "are",
+          "you"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "ARE YOU",
+      "raw": {
+        "v": "20150910",
+        "query": "ARE YOU",
+        "lang": "en",
+        "sessionId": "7b787b0c-5f86-4707-8021-b23ae35a3cb2",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512396950479,
+      "sentiment": {
+        "score": -1,
+        "comparative": -0.25,
+        "tokens": [
+          "flight",
+          "no",
+          "of",
+          "wednesday"
+        ],
+        "words": [
+          "no"
+        ],
+        "positive": [],
+        "negative": [
+          "no"
+        ]
+      },
+      "body": "FLIGHT NO OF WEDNESDAY",
+      "raw": {
+        "v": "20150910",
+        "query": "FLIGHT NO OF WEDNESDAY",
+        "lang": "en",
+        "sessionId": "280740a9-58fb-4e9a-a277-14bd78757a49",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512402353722,
+      "sentiment": {
+        "score": -4,
+        "comparative": -0.4444444444444444,
+        "tokens": [
+          "so",
+          "can",
+          "you",
+          "add",
+          "something",
+          "to",
+          "the",
+          "fucking",
+          "screen"
+        ],
+        "words": [
+          "fucking"
+        ],
+        "positive": [],
+        "negative": [
+          "fucking"
+        ]
+      },
+      "body": "SO CAN YOU ADD SOMETHING TO THE FUCKING SCREEN",
+      "raw": {
+        "v": "20150910",
+        "query": "SO CAN YOU ADD SOMETHING TO THE FUCKING SCREEN",
+        "lang": "en",
+        "sessionId": "7c933072-8abf-4498-b605-3ecf54b7ce15",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512403630410,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "i",
+          "just",
+          "order"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "I JUST ORDER",
+      "raw": {
+        "v": "20150910",
+        "query": "I JUST ORDER",
+        "lang": "en",
+        "sessionId": "7d3bffdd-3c1f-47ff-9470-040414f34b84",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512404208890,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "are",
+          "you",
+          "connected"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "ARE YOU CONNECTED",
+      "raw": {
+        "v": "20150910",
+        "query": "ARE YOU CONNECTED",
+        "lang": "en",
+        "sessionId": "c02673f6-32e1-43a3-b60f-66fff442b4d6",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512404261911,
+      "sentiment": {
+        "score": 2,
+        "comparative": 1,
+        "tokens": [
+          "that's",
+          "better"
+        ],
+        "words": [
+          "better"
+        ],
+        "positive": [
+          "better"
+        ],
+        "negative": []
+      },
+      "body": "THAT'S BETTER",
+      "raw": {
+        "v": "20150910",
+        "query": "THAT'S BETTER",
+        "lang": "en",
+        "sessionId": "13b15c94-6cc9-47c4-9601-5622f94605a3",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512404297884,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "hi",
+          "again"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "HI AGAIN",
+      "raw": {
+        "v": "20150910",
+        "query": "HI AGAIN",
+        "lang": "en",
+        "sessionId": "4781b4f1-0379-4b97-9829-b852ca10fe90",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512404319268,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "what",
+          "is",
+          "the",
+          "make",
+          "in",
+          "youtube"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WHAT IS THE MAKE IN YOUTUBE",
+      "raw": {
+        "v": "20150910",
+        "query": "WHAT IS THE MAKE IN YOUTUBE",
+        "lang": "en",
+        "sessionId": "ac05e58d-acb1-46b4-8467-8f73e6eb0dd2",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512404602537,
+      "sentiment": {
+        "score": 1,
+        "comparative": 0.25,
+        "tokens": [
+          "please",
+          "open",
+          "the",
+          "camera"
+        ],
+        "words": [
+          "please"
+        ],
+        "positive": [
+          "please"
+        ],
+        "negative": []
+      },
+      "body": "PLEASE OPEN THE CAMERA",
+      "raw": {
+        "v": "20150910",
+        "query": "PLEASE OPEN THE CAMERA",
+        "lang": "en",
+        "sessionId": "6c40dd29-4eaa-4f92-8480-6b6d1b3c7808",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512404920960,
+      "sentiment": {
+        "score": 1,
+        "comparative": 0.16666666666666666,
+        "tokens": [
+          "please",
+          "don't",
+          "make",
+          "you",
+          "a",
+          "news"
+        ],
+        "words": [
+          "please"
+        ],
+        "positive": [
+          "please"
+        ],
+        "negative": []
+      },
+      "body": "PLEASE DON'T MAKE YOU A NEWS",
+      "raw": {
+        "v": "20150910",
+        "query": "PLEASE DON'T MAKE YOU A NEWS",
+        "lang": "en",
+        "sessionId": "eb28fa34-00e2-40f7-83e6-8551c23070c6",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512404928460,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "make",
+          "another",
+          "window"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "MAKE ANOTHER WINDOW",
+      "raw": {
+        "v": "20150910",
+        "query": "MAKE ANOTHER WINDOW",
+        "lang": "en",
+        "sessionId": "6b45663a-17c7-4e8f-bfbd-c9b70600c838",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512404941376,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "what",
+          "work"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WHAT WORK",
+      "raw": {
+        "v": "20150910",
+        "query": "WHAT WORK",
+        "lang": "en",
+        "sessionId": "48f35149-9d83-45a0-83da-f9c2e479bb54",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512405137712,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "work",
+          "in",
+          "the",
+          "second",
+          "one"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WORK IN THE SECOND ONE",
+      "raw": {
+        "v": "20150910",
+        "query": "WORK IN THE SECOND ONE",
+        "lang": "en",
+        "sessionId": "2521129b-7f86-4150-8c21-01c50c533987",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512405377214,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "sam",
+          "what",
+          "would",
+          "it"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "SAM WHAT WOULD IT",
+      "raw": {
+        "v": "20150910",
+        "query": "SAM WHAT WOULD IT",
+        "lang": "en",
+        "sessionId": "85544271-12d1-4dda-abb7-3720992fd885",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512405390674,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "second",
+          "furniture",
+          "for",
+          "lock",
+          "the",
+          "screen"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "SECOND FURNITURE FOR LOCK THE SCREEN",
+      "raw": {
+        "v": "20150910",
+        "query": "SECOND FURNITURE FOR LOCK THE SCREEN",
+        "lang": "en",
+        "sessionId": "0fee2bc5-514e-4e78-8e4c-b9392109711b",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512405425810,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "i'm",
+          "looking",
+          "for"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "I'M LOOKING FOR",
+      "raw": {
+        "v": "20150910",
+        "query": "I'M LOOKING FOR",
+        "lang": "en",
+        "sessionId": "1d2ce13f-19bf-433e-a5a5-657eead5540d",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512405433105,
+      "sentiment": {
+        "score": -1,
+        "comparative": -0.2,
+        "tokens": [
+          "no",
+          "fell",
+          "off",
+          "the",
+          "screen"
+        ],
+        "words": [
+          "no"
+        ],
+        "positive": [],
+        "negative": [
+          "no"
+        ]
+      },
+      "body": "NO FELL OFF THE SCREEN",
+      "raw": {
+        "v": "20150910",
+        "query": "NO FELL OFF THE SCREEN",
+        "lang": "en",
+        "sessionId": "54d80de3-792f-42eb-99e3-3d6af69cc0f0",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512405475528,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "we",
+          "should",
+          "be",
+          "making",
+          "a"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WE SHOULD BE MAKING A",
+      "raw": {
+        "v": "20150910",
+        "query": "WE SHOULD BE MAKING A",
+        "lang": "en",
+        "sessionId": "9dd92417-5ec2-45bf-9a09-f52976b99b79",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512405481292,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "okay",
+          "i",
+          "put",
+          "it",
+          "in",
+          "the",
+          "window"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "OKAY I PUT IT IN THE WINDOW",
+      "raw": {
+        "v": "20150910",
+        "query": "OKAY I PUT IT IN THE WINDOW",
+        "lang": "en",
+        "sessionId": "2b169a2a-f813-46a3-9aaf-e1ac3e8a7923",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512413170541,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "ok",
+          "you",
+          "are",
+          "a",
+          "time"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "OK YOU ARE A TIME",
+      "raw": {
+        "v": "20150910",
+        "query": "OK YOU ARE A TIME",
+        "lang": "en",
+        "sessionId": "90f832ff-1bea-4945-9877-5f7806e7e66f",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512413175916,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "table"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "TABLE",
+      "raw": {
+        "v": "20150910",
+        "query": "TABLE",
+        "lang": "en",
+        "sessionId": "f06b5976-c01b-4841-b584-6b97c22038c6",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512413365851,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "another",
+          "one"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "ANOTHER ONE",
+      "raw": {
+        "v": "20150910",
+        "query": "ANOTHER ONE",
+        "lang": "en",
+        "sessionId": "dce85d92-a3f9-4c91-8983-85c63338276e",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512413375171,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "why",
+          "did",
+          "you",
+          "make",
+          "a",
+          "new",
+          "task"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WHY DID YOU MAKE A NEW TASK",
+      "raw": {
+        "v": "20150910",
+        "query": "WHY DID YOU MAKE A NEW TASK",
+        "lang": "en",
+        "sessionId": "934ae4cd-8b3f-494e-9f8b-f32216313484",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512413385129,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "why",
+          "did",
+          "you",
+          "make",
+          "a",
+          "new",
+          "task"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WHY DID YOU MAKE A NEW TASK",
+      "raw": {
+        "v": "20150910",
+        "query": "WHY DID YOU MAKE A NEW TASK",
+        "lang": "en",
+        "sessionId": "19d6cdb4-cb44-42b4-bd98-4adfb7a9e910",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512413430940,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "hey",
+          "try",
+          "again"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "HEY TRY AGAIN",
+      "raw": {
+        "v": "20150910",
+        "query": "HEY TRY AGAIN",
+        "lang": "en",
+        "sessionId": "f26d68ec-5d8c-465e-ae3b-d2f92acb645f",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512413438177,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "not",
+          "really",
+          "have",
+          "to",
+          "fixable",
+          "start"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "NOT REALLY HAVE TO FIXABLE START",
+      "raw": {
+        "v": "20150910",
+        "query": "NOT REALLY HAVE TO FIXABLE START",
+        "lang": "en",
+        "sessionId": "7d61894b-cde0-4399-9a29-ff1382353061",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512413445921,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "really",
+          "have",
+          "to",
+          "fix",
+          "it"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "REALLY HAVE TO FIX IT",
+      "raw": {
+        "v": "20150910",
+        "query": "REALLY HAVE TO FIX IT",
+        "lang": "en",
+        "sessionId": "19014f57-4333-49cc-89fb-2fc92620df8c",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512413504480,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "let's",
+          "try",
+          "again"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "LET'S TRY AGAIN",
+      "raw": {
+        "v": "20150910",
+        "query": "LET'S TRY AGAIN",
+        "lang": "en",
+        "sessionId": "c8c39022-7cf0-4ee3-bfb6-58c8857f4124",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512413534665,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "when",
+          "is",
+          "time"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WHEN IS TIME",
+      "raw": {
+        "v": "20150910",
+        "query": "WHEN IS TIME",
+        "lang": "en",
+        "sessionId": "44a67a04-d8d3-492d-a33f-7806898fd57c",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512413554473,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "another",
+          "one"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "ANOTHER ONE",
+      "raw": {
+        "v": "20150910",
+        "query": "ANOTHER ONE",
+        "lang": "en",
+        "sessionId": "a845d2e1-ba82-4a3e-9a5c-62174972b2ff",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512413567257,
+      "sentiment": {
+        "score": -1,
+        "comparative": -0.2,
+        "tokens": [
+          "i",
+          "want",
+          "to",
+          "again",
+          "negative"
+        ],
+        "words": [
+          "negative",
+          "want"
+        ],
+        "positive": [
+          "want"
+        ],
+        "negative": [
+          "negative"
+        ]
+      },
+      "body": "I WANT TO AGAIN NEGATIVE",
+      "raw": {
+        "v": "20150910",
+        "query": "I WANT TO AGAIN NEGATIVE",
+        "lang": "en",
+        "sessionId": "f3925284-3214-4334-bd09-dc2a4d1f8ed0",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512413651829,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "make",
+          "a",
+          "tv",
+          "show"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "MAKE A TV SHOW",
+      "raw": {
+        "v": "20150910",
+        "query": "MAKE A TV SHOW",
+        "lang": "en",
+        "sessionId": "5b408ac7-1023-4c66-892e-e611d47c2dfb",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512413657766,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "show",
+          "me",
+          "the",
+          "day",
+          "today"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "SHOW ME THE DAY TODAY",
+      "raw": {
+        "v": "20150910",
+        "query": "SHOW ME THE DAY TODAY",
+        "lang": "en",
+        "sessionId": "5484c441-2043-4b76-910b-967fd0456f6b",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512413797389,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "where",
+          "is",
+          "tempt"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WHERE IS TEMPT",
+      "raw": {
+        "v": "20150910",
+        "query": "WHERE IS TEMPT",
+        "lang": "en",
+        "sessionId": "8ae20d73-395b-40c6-b48a-0e3536e93898",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512413807787,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "show",
+          "me",
+          "some",
+          "tables"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "SHOW ME SOME TABLES",
+      "raw": {
+        "v": "20150910",
+        "query": "SHOW ME SOME TABLES",
+        "lang": "en",
+        "sessionId": "30ccd159-a13a-4a95-96c3-2d85ffe797e6",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512413820526,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "are",
+          "you"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "ARE YOU",
+      "raw": {
+        "v": "20150910",
+        "query": "ARE YOU",
+        "lang": "en",
+        "sessionId": "af9008eb-a709-4bfe-a56f-a1e2ed0182bc",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512467369162,
+      "sentiment": {
+        "score": -2,
+        "comparative": -0.2857142857142857,
+        "tokens": [
+          "what",
+          "is",
+          "the",
+          "computer",
+          "old",
+          "very",
+          "annoying"
+        ],
+        "words": [
+          "annoying"
+        ],
+        "positive": [],
+        "negative": [
+          "annoying"
+        ]
+      },
+      "body": "WHAT IS THE COMPUTER OLD VERY ANNOYING",
+      "raw": {
+        "v": "20150910",
+        "query": "WHAT IS THE COMPUTER OLD VERY ANNOYING",
+        "lang": "en",
+        "sessionId": "46cb93cd-a03a-4c36-b37d-63bdb1ba70ca",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512467376637,
+      "sentiment": {
+        "score": 3,
+        "comparative": 0.6,
+        "tokens": [
+          "what's",
+          "a",
+          "good",
+          "day",
+          "twice"
+        ],
+        "words": [
+          "good"
+        ],
+        "positive": [
+          "good"
+        ],
+        "negative": []
+      },
+      "body": "WHAT'S A GOOD DAY TWICE",
+      "raw": {
+        "v": "20150910",
+        "query": "WHAT'S A GOOD DAY TWICE",
+        "lang": "en",
+        "sessionId": "74fa3d04-27e2-47e1-a02d-c26101081148",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512467547892,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "ok",
+          "try",
+          "this",
+          "again"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "OK TRY THIS AGAIN",
+      "raw": {
+        "v": "20150910",
+        "query": "OK TRY THIS AGAIN",
+        "lang": "en",
+        "sessionId": "03c8f5a9-f62a-4254-97c3-2ae3db056e34",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512467555049,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "the",
+          "table"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "THE TABLE",
+      "raw": {
+        "v": "20150910",
+        "query": "THE TABLE",
+        "lang": "en",
+        "sessionId": "0cbc6690-4033-4c25-966f-180c0f8f0306",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512467562248,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "is",
+          "it"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "IS IT",
+      "raw": {
+        "v": "20150910",
+        "query": "IS IT",
+        "lang": "en",
+        "sessionId": "223b6a38-d2a7-4d3a-980e-4ac7448ccfe7",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512467695187,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "this",
+          "time",
+          "can",
+          "you",
+          "find",
+          "out"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "THIS TIME CAN YOU FIND OUT",
+      "raw": {
+        "v": "20150910",
+        "query": "THIS TIME CAN YOU FIND OUT",
+        "lang": "en",
+        "sessionId": "aa70e926-4363-42ef-944a-aeaa9e5ad486",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512467702629,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "make",
+          "a",
+          "t"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "MAKE A T",
+      "raw": {
+        "v": "20150910",
+        "query": "MAKE A T",
+        "lang": "en",
+        "sessionId": "601ab526-400a-4330-8359-b8ac8484b88a",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512468422809,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "what",
+          "was",
+          "the",
+          "quotes"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WHAT WAS THE QUOTES",
+      "raw": {
+        "v": "20150910",
+        "query": "WHAT WAS THE QUOTES",
+        "lang": "en",
+        "sessionId": "4c4d17f4-64e1-4dd6-b58b-957a50661626",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512468427403,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "tell",
+          "me",
+          "a",
+          "freaking",
+          "table"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "TELL ME A FREAKING TABLE",
+      "raw": {
+        "v": "20150910",
+        "query": "TELL ME A FREAKING TABLE",
+        "lang": "en",
+        "sessionId": "b9ec9fb7-a261-4846-a57b-27826216fc77",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512468432705,
+      "sentiment": {
+        "score": 2,
+        "comparative": 1,
+        "tokens": [
+          "thank",
+          "you"
+        ],
+        "words": [
+          "thank"
+        ],
+        "positive": [
+          "thank"
+        ],
+        "negative": []
+      },
+      "body": "THANK YOU",
+      "raw": {
+        "v": "20150910",
+        "query": "THANK YOU",
+        "lang": "en",
+        "sessionId": "9b0728a4-f14c-44b2-a9b3-f168956ec64e",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512468638944,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "million",
+          "time",
+          "what",
+          "he"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "MILLION TIME WHAT HE",
+      "raw": {
+        "v": "20150910",
+        "query": "MILLION TIME WHAT HE",
+        "lang": "en",
+        "sessionId": "735f3a6b-97ca-40c7-a905-7a9f370fea3a",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512468644108,
+      "sentiment": {
+        "score": -4,
+        "comparative": -0.8,
+        "tokens": [
+          "give",
+          "me",
+          "a",
+          "fucking",
+          "table"
+        ],
+        "words": [
+          "fucking"
+        ],
+        "positive": [],
+        "negative": [
+          "fucking"
+        ]
+      },
+      "body": "GIVE ME A FUCKING TABLE",
+      "raw": {
+        "v": "20150910",
+        "query": "GIVE ME A FUCKING TABLE",
+        "lang": "en",
+        "sessionId": "5d183397-02b1-45aa-9529-c9339a7e2abc",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512468759580,
+      "sentiment": {
+        "score": 1,
+        "comparative": 0.3333333333333333,
+        "tokens": [
+          "please",
+          "work",
+          "out"
+        ],
+        "words": [
+          "please"
+        ],
+        "positive": [
+          "please"
+        ],
+        "negative": []
+      },
+      "body": "PLEASE WORK OUT",
+      "raw": {
+        "v": "20150910",
+        "query": "PLEASE WORK OUT",
+        "lang": "en",
+        "sessionId": "c346b057-af37-47bd-98c9-7e970aae503c",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512468769381,
+      "sentiment": {
+        "score": -4,
+        "comparative": -0.8,
+        "tokens": [
+          "things",
+          "to",
+          "do",
+          "is",
+          "fucking"
+        ],
+        "words": [
+          "fucking"
+        ],
+        "positive": [],
+        "negative": [
+          "fucking"
+        ]
+      },
+      "body": "THINGS TO DO IS FUCKING",
+      "raw": {
+        "v": "20150910",
+        "query": "THINGS TO DO IS FUCKING",
+        "lang": "en",
+        "sessionId": "315cb44a-9408-4822-8c7a-e3cebefe4139",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512468878847,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "attempt",
+          "to",
+          "one",
+          "million",
+          "at",
+          "five"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "ATTEMPT TO ONE MILLION AT FIVE",
+      "raw": {
+        "v": "20150910",
+        "query": "ATTEMPT TO ONE MILLION AT FIVE",
+        "lang": "en",
+        "sessionId": "38d01f51-80a9-4833-bd17-c3fb2eecbad1",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512468884384,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "call",
+          "table"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "CALL TABLE",
+      "raw": {
+        "v": "20150910",
+        "query": "CALL TABLE",
+        "lang": "en",
+        "sessionId": "f9abb373-265e-4b9f-9c22-b52f7a0795a9",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512469039059,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "ok",
+          "can",
+          "you",
+          "read",
+          "any",
+          "thing",
+          "now"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "OK CAN YOU READ ANY THING NOW",
+      "raw": {
+        "v": "20150910",
+        "query": "OK CAN YOU READ ANY THING NOW",
+        "lang": "en",
+        "sessionId": "9267979a-5855-4475-83a3-51dbdf858d28",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512469045987,
+      "sentiment": {
+        "score": -6,
+        "comparative": -1.5,
+        "tokens": [
+          "stupid",
+          "stupid",
+          "stupid",
+          "machine"
+        ],
+        "words": [
+          "stupid",
+          "stupid",
+          "stupid"
+        ],
+        "positive": [],
+        "negative": [
+          "stupid",
+          "stupid",
+          "stupid"
+        ]
+      },
+      "body": "STUPID STUPID STUPID MACHINE",
+      "raw": {
+        "v": "20150910",
+        "query": "STUPID STUPID STUPID MACHINE",
+        "lang": "en",
+        "sessionId": "3859971a-54a2-4315-b3d8-b66761802a88",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512469064434,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "hello"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "HELLO",
+      "raw": {
+        "v": "20150910",
+        "query": "HELLO",
+        "lang": "en",
+        "sessionId": "b3823038-acab-4909-9750-370d97e86be0",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512469070189,
+      "sentiment": {
+        "score": -6,
+        "comparative": -1.5,
+        "tokens": [
+          "stupid",
+          "stupid",
+          "stupid",
+          "machine"
+        ],
+        "words": [
+          "stupid",
+          "stupid",
+          "stupid"
+        ],
+        "positive": [],
+        "negative": [
+          "stupid",
+          "stupid",
+          "stupid"
+        ]
+      },
+      "body": "STUPID STUPID STUPID MACHINE",
+      "raw": {
+        "v": "20150910",
+        "query": "STUPID STUPID STUPID MACHINE",
+        "lang": "en",
+        "sessionId": "2f2205df-8577-4d77-89eb-87c992d8fbf1",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512469391936,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "something"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "SOMETHING",
+      "raw": {
+        "v": "20150910",
+        "query": "SOMETHING",
+        "lang": "en",
+        "sessionId": "ae8201e6-cb3b-4f78-857c-94bac86fcc50",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512469399166,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "what",
+          "time",
+          "park",
+          "fishing"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WHAT TIME PARK FISHING",
+      "raw": {
+        "v": "20150910",
+        "query": "WHAT TIME PARK FISHING",
+        "lang": "en",
+        "sessionId": "a02c5d40-e6a3-490f-a5cd-e2441e90f0d9",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512469466072,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "ok",
+          "try",
+          "again"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "OK TRY AGAIN",
+      "raw": {
+        "v": "20150910",
+        "query": "OK TRY AGAIN",
+        "lang": "en",
+        "sessionId": "549e8427-4d75-44c8-a943-3bebe61744c9",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512469473298,
+      "sentiment": {
+        "score": -2,
+        "comparative": -0.3333333333333333,
+        "tokens": [
+          "why",
+          "did",
+          "you",
+          "crash",
+          "last",
+          "time"
+        ],
+        "words": [
+          "crash"
+        ],
+        "positive": [],
+        "negative": [
+          "crash"
+        ]
+      },
+      "body": "WHY DID YOU CRASH LAST TIME",
+      "raw": {
+        "v": "20150910",
+        "query": "WHY DID YOU CRASH LAST TIME",
+        "lang": "en",
+        "sessionId": "37615ac6-5343-421c-ad33-6f4fbb8d8f70",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512469635159,
+      "sentiment": {
+        "score": -1,
+        "comparative": -0.16666666666666666,
+        "tokens": [
+          "can",
+          "i",
+          "stay",
+          "with",
+          "empty",
+          "box"
+        ],
+        "words": [
+          "empty"
+        ],
+        "positive": [],
+        "negative": [
+          "empty"
+        ]
+      },
+      "body": "CAN I STAY WITH EMPTY BOX",
+      "raw": {
+        "v": "20150910",
+        "query": "CAN I STAY WITH EMPTY BOX",
+        "lang": "en",
+        "sessionId": "3c9f3d4d-ac36-43b5-8e7e-d6911eae2b73",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512469642696,
+      "sentiment": {
+        "score": -2,
+        "comparative": -1,
+        "tokens": [
+          "really",
+          "tired"
+        ],
+        "words": [
+          "tired"
+        ],
+        "positive": [],
+        "negative": [
+          "tired"
+        ]
+      },
+      "body": "REALLY TIRED",
+      "raw": {
+        "v": "20150910",
+        "query": "REALLY TIRED",
+        "lang": "en",
+        "sessionId": "a6042c9b-bd00-40cf-bf35-e8572aab5e86",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512469690676,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "what",
+          "time",
+          "sex",
+          "apps"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WHAT TIME SEX APPS",
+      "raw": {
+        "v": "20150910",
+        "query": "WHAT TIME SEX APPS",
+        "lang": "en",
+        "sessionId": "bad4906e-4b09-4e1d-be1b-8b27db6faac3",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512469698410,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "ok",
+          "it's",
+          "time"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "OK IT'S TIME",
+      "raw": {
+        "v": "20150910",
+        "query": "OK IT'S TIME",
+        "lang": "en",
+        "sessionId": "54a765a4-cfa0-4cd5-b8c6-76d7bb0866b2",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512469866533,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "again"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "AGAIN",
+      "raw": {
+        "v": "20150910",
+        "query": "AGAIN",
+        "lang": "en",
+        "sessionId": "fec3e51a-4d05-42e0-9671-bbdf3fd9f1b1",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512469874696,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "time",
+          "at",
+          "the",
+          "part",
+          "of",
+          "the",
+          "people"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "TIME AT THE PART OF THE PEOPLE",
+      "raw": {
+        "v": "20150910",
+        "query": "TIME AT THE PART OF THE PEOPLE",
+        "lang": "en",
+        "sessionId": "71168020-f5c4-43e7-9846-ba730e74b4bd",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512470046734,
+      "sentiment": {
+        "score": 1,
+        "comparative": 0.3333333333333333,
+        "tokens": [
+          "please",
+          "find",
+          "me"
+        ],
+        "words": [
+          "please"
+        ],
+        "positive": [
+          "please"
+        ],
+        "negative": []
+      },
+      "body": "PLEASE FIND ME",
+      "raw": {
+        "v": "20150910",
+        "query": "PLEASE FIND ME",
+        "lang": "en",
+        "sessionId": "ec343c18-60e8-4b72-bee3-c582ddb96dec",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512470055453,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "edit",
+          "that",
+          "was"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "EDIT THAT WAS",
+      "raw": {
+        "v": "20150910",
+        "query": "EDIT THAT WAS",
+        "lang": "en",
+        "sessionId": "b978811a-da49-4c9e-ad63-3d9d8510762a",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512470591514,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "do",
+          "it"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "DO IT",
+      "raw": {
+        "v": "20150910",
+        "query": "DO IT",
+        "lang": "en",
+        "sessionId": "7fedfbaf-b342-4c60-86cb-4d165433b7c1",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512470599602,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "make",
+          "a",
+          "thing",
+          "make",
+          "a",
+          "thing"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "MAKE A THING MAKE A THING",
+      "raw": {
+        "v": "20150910",
+        "query": "MAKE A THING MAKE A THING",
+        "lang": "en",
+        "sessionId": "ac0bd1a3-ee13-4916-b25e-41158ff55a4c",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512475615758,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "ok",
+          "what",
+          "fixed",
+          "engine"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "OK WHAT FIXED ENGINE",
+      "raw": {
+        "v": "20150910",
+        "query": "OK WHAT FIXED ENGINE",
+        "lang": "en",
+        "sessionId": "a3b5624f-7da7-4252-afad-6f32be4a6a39",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512475622476,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "i",
+          "created"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "I CREATED",
+      "raw": {
+        "v": "20150910",
+        "query": "I CREATED",
+        "lang": "en",
+        "sessionId": "07bbbcda-b2e7-46fe-a2b8-7d8b09357f47",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512475735963,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "are",
+          "you"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "ARE YOU",
+      "raw": {
+        "v": "20150910",
+        "query": "ARE YOU",
+        "lang": "en",
+        "sessionId": "30a6f336-e277-42ed-9114-1e73ffe0f57a",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512478851530,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "go",
+          "back",
+          "to",
+          "calling"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "GO BACK TO CALLING",
+      "raw": {
+        "v": "20150910",
+        "query": "GO BACK TO CALLING",
+        "lang": "en",
+        "sessionId": "b4e5cad7-ec37-4a88-bfc7-87617d9c58d2",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512478865378,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "i",
+          "am",
+          "speaking",
+          "to",
+          "machine"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "I AM SPEAKING TO MACHINE",
+      "raw": {
+        "v": "20150910",
+        "query": "I AM SPEAKING TO MACHINE",
+        "lang": "en",
+        "sessionId": "6d071668-c08d-4c45-a0ee-bfabe5b1700d",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512479029839,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "can",
+          "you",
+          "do",
+          "it",
+          "again"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "CAN YOU DO IT AGAIN",
+      "raw": {
+        "v": "20150910",
+        "query": "CAN YOU DO IT AGAIN",
+        "lang": "en",
+        "sessionId": "7083d3ec-a74d-4e1d-9703-ff9fc850667a",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512479038270,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "i",
+          "am",
+          "actually",
+          "work"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "I AM ACTUALLY WORK",
+      "raw": {
+        "v": "20150910",
+        "query": "I AM ACTUALLY WORK",
+        "lang": "en",
+        "sessionId": "19ea28df-efe2-416e-98f9-4238b951257a",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512479123045,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "the",
+          "try"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "THE TRY",
+      "raw": {
+        "v": "20150910",
+        "query": "THE TRY",
+        "lang": "en",
+        "sessionId": "efb10774-648f-4d50-9f66-3f6f8fc7c30e",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512479130204,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "how",
+          "to",
+          "get",
+          "some",
+          "sugar"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "HOW TO GET SOME SUGAR",
+      "raw": {
+        "v": "20150910",
+        "query": "HOW TO GET SOME SUGAR",
+        "lang": "en",
+        "sessionId": "9671f403-d16e-4ef5-a2a8-c569fb722b03",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512479490459,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "games"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "GAMES",
+      "raw": {
+        "v": "20150910",
+        "query": "GAMES",
+        "lang": "en",
+        "sessionId": "1892b00d-2800-4ba2-b943-d23cad1bda1a",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512479496709,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "another",
+          "one"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "ANOTHER ONE",
+      "raw": {
+        "v": "20150910",
+        "query": "ANOTHER ONE",
+        "lang": "en",
+        "sessionId": "de56cef4-5b49-49c8-b406-c0a17f104c94",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512479538169,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "i",
+          "can"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "I CAN",
+      "raw": {
+        "v": "20150910",
+        "query": "I CAN",
+        "lang": "en",
+        "sessionId": "c477f180-de18-4e2f-97c2-a22e2273ab76",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512479549302,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "what",
+          "the",
+          "one"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WHAT THE ONE",
+      "raw": {
+        "v": "20150910",
+        "query": "WHAT THE ONE",
+        "lang": "en",
+        "sessionId": "87d3c12d-11f9-4df2-82fc-c63e33efbbad",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512479765818,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "trying",
+          "to",
+          "the",
+          "milly",
+          "it's",
+          "time"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "TRYING TO THE MILLY IT'S TIME",
+      "raw": {
+        "v": "20150910",
+        "query": "TRYING TO THE MILLY IT'S TIME",
+        "lang": "en",
+        "sessionId": "cefc4d6a-3fc7-4886-b1c5-0505615a5d50",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512479775032,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "i",
+          "follow",
+          "the",
+          "month",
+          "to",
+          "work",
+          "address"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "I FOLLOW THE MONTH TO WORK ADDRESS",
+      "raw": {
+        "v": "20150910",
+        "query": "I FOLLOW THE MONTH TO WORK ADDRESS",
+        "lang": "en",
+        "sessionId": "a4bfefd4-45f9-4769-81a7-21344e92ece1",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512479895688,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "let's",
+          "try",
+          "it",
+          "again"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "LET'S TRY IT AGAIN",
+      "raw": {
+        "v": "20150910",
+        "query": "LET'S TRY IT AGAIN",
+        "lang": "en",
+        "sessionId": "9bc3961f-31a8-4a2f-bf9f-476b6d08310c",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512479908932,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "i",
+          "am"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "I AM",
+      "raw": {
+        "v": "20150910",
+        "query": "I AM",
+        "lang": "en",
+        "sessionId": "ef81fc3e-960d-47e8-80ab-0b977106c3d8",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512480018888,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "try",
+          "it",
+          "again"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "TRY IT AGAIN",
+      "raw": {
+        "v": "20150910",
+        "query": "TRY IT AGAIN",
+        "lang": "en",
+        "sessionId": "0b7bceea-0b8e-410d-8915-c4df4d5ac706",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512480030438,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "keeps",
+          "well",
+          "service",
+          "site"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "KEEPS WELL SERVICE SITE",
+      "raw": {
+        "v": "20150910",
+        "query": "KEEPS WELL SERVICE SITE",
+        "lang": "en",
+        "sessionId": "7f360338-9ec6-4303-a979-47d1e2e3b4ae",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481022989,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "what",
+          "try",
+          "again"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WHAT TRY AGAIN",
+      "raw": {
+        "v": "20150910",
+        "query": "WHAT TRY AGAIN",
+        "lang": "en",
+        "sessionId": "a75eb8dd-6cda-43ad-a80b-5fda4e1e2179",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481031030,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "i'm",
+          "not",
+          "make",
+          "me",
+          "a",
+          "table"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "I'M NOT MAKE ME A TABLE",
+      "raw": {
+        "v": "20150910",
+        "query": "I'M NOT MAKE ME A TABLE",
+        "lang": "en",
+        "sessionId": "b989f7b6-90e5-4360-9781-c631f3910401",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481305283,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "what",
+          "time"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WHAT TIME",
+      "raw": {
+        "v": "20150910",
+        "query": "WHAT TIME",
+        "lang": "en",
+        "sessionId": "4c911ad4-f6f4-46ce-bafa-87f19b8c7d51",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481311191,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "can",
+          "you",
+          "read",
+          "a",
+          "table"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "CAN YOU READ A TABLE",
+      "raw": {
+        "v": "20150910",
+        "query": "CAN YOU READ A TABLE",
+        "lang": "en",
+        "sessionId": "c2ab3f57-7dbe-474c-9a3e-f1878c514175",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481450258,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "hello",
+          "try",
+          "again"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "HELLO TRY AGAIN",
+      "raw": {
+        "v": "20150910",
+        "query": "HELLO TRY AGAIN",
+        "lang": "en",
+        "sessionId": "f49e7144-0c6a-4e93-a674-13a5b1b276e0",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481458821,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "self",
+          "destruct"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "SELF DESTRUCT",
+      "raw": {
+        "v": "20150910",
+        "query": "SELF DESTRUCT",
+        "lang": "en",
+        "sessionId": "e6c11cb8-3230-4570-8315-aad84e672a70",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481531270,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "sale",
+          "to",
+          "pick",
+          "up",
+          "the"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "SALE TO PICK UP THE",
+      "raw": {
+        "v": "20150910",
+        "query": "SALE TO PICK UP THE",
+        "lang": "en",
+        "sessionId": "a1255bd8-3720-4531-8fcf-fec2dfa833bb",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481541786,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "i",
+          "just",
+          "said"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "I JUST SAID",
+      "raw": {
+        "v": "20150910",
+        "query": "I JUST SAID",
+        "lang": "en",
+        "sessionId": "499d5b28-a230-4b98-89d7-e8a7a32b1d89",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481633837,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "i'm",
+          "again"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "I'M AGAIN",
+      "raw": {
+        "v": "20150910",
+        "query": "I'M AGAIN",
+        "lang": "en",
+        "sessionId": "758e6a1e-5c70-4bb3-99ac-c5a4ff3f0bee",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481641376,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "i'm",
+          "not",
+          "time",
+          "work"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "I'M NOT TIME WORK",
+      "raw": {
+        "v": "20150910",
+        "query": "I'M NOT TIME WORK",
+        "lang": "en",
+        "sessionId": "62ad8c84-1006-4c9c-9e17-77860ca43952",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481660313,
+      "sentiment": {
+        "score": 2,
+        "comparative": 0.4,
+        "tokens": [
+          "you",
+          "look",
+          "like",
+          "an",
+          "update"
+        ],
+        "words": [
+          "like"
+        ],
+        "positive": [
+          "like"
+        ],
+        "negative": []
+      },
+      "body": "YOU LOOK LIKE AN UPDATE",
+      "raw": {
+        "v": "20150910",
+        "query": "YOU LOOK LIKE AN UPDATE",
+        "lang": "en",
+        "sessionId": "9175bfe3-1ac6-4f3a-9839-7d4ef279592b",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481685419,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "monkey",
+          "monkey",
+          "monkey",
+          "monkey",
+          "monkey",
+          "monkey",
+          "monkey",
+          "monkey",
+          "monkey",
+          "monkey",
+          "monkey"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "MONKEY MONKEY MONKEY MONKEY MONKEY MONKEY MONKEY MONKEY MONKEY MONKEY MONKEY",
+      "raw": {
+        "v": "20150910",
+        "query": "MONKEY MONKEY MONKEY MONKEY MONKEY MONKEY MONKEY MONKEY MONKEY MONKEY MONKEY",
+        "lang": "en",
+        "sessionId": "dc1293a7-cd70-40e4-b0a9-1de8f9949dc4",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481938234,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "ok",
+          "computer",
+          "do",
+          "something"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "OK COMPUTER DO SOMETHING",
+      "raw": {
+        "v": "20150910",
+        "query": "OK COMPUTER DO SOMETHING",
+        "lang": "en",
+        "sessionId": "38afaf09-2e6e-4a9c-874c-0754370c996b",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481945501,
+      "sentiment": {
+        "score": -2,
+        "comparative": -0.2857142857142857,
+        "tokens": [
+          "from",
+          "stupid",
+          "is",
+          "nigga",
+          "i",
+          "did",
+          "twice"
+        ],
+        "words": [
+          "stupid"
+        ],
+        "positive": [],
+        "negative": [
+          "stupid"
+        ]
+      },
+      "body": "FROM STUPID IS NIGGA I DID TWICE",
+      "raw": {
+        "v": "20150910",
+        "query": "FROM STUPID IS NIGGA I DID TWICE",
+        "lang": "en",
+        "sessionId": "7296e0c4-6cf6-4969-aecc-c63abe8359d4",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481953841,
+      "sentiment": {
+        "score": -21,
+        "comparative": -3,
+        "tokens": [
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot"
+        ],
+        "words": [
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot"
+        ],
+        "positive": [],
+        "negative": [
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot"
+        ]
+      },
+      "body": "IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT",
+      "raw": {
+        "v": "20150910",
+        "query": "IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT",
+        "lang": "en",
+        "sessionId": "66d2f11a-5934-479e-b9b4-9b858ec3cd94",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481963619,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "donkey",
+          "donkey"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "DONKEY DONKEY",
+      "raw": {
+        "v": "20150910",
+        "query": "DONKEY DONKEY",
+        "lang": "en",
+        "sessionId": "de1f4d0c-de09-4778-a6cf-607d9d3108e1",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481974041,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "what",
+          "are",
+          "you"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WHAT ARE YOU",
+      "raw": {
+        "v": "20150910",
+        "query": "WHAT ARE YOU",
+        "lang": "en",
+        "sessionId": "0812e48d-09fa-4c72-8ac5-80534312863c",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481980213,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "supposed",
+          "to",
+          "be",
+          "a"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "SUPPOSED TO BE A",
+      "raw": {
+        "v": "20150910",
+        "query": "SUPPOSED TO BE A",
+        "lang": "en",
+        "sessionId": "e73b993e-dbb1-4d44-8893-37b9953ecdde",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512481986806,
+      "sentiment": {
+        "score": -4,
+        "comparative": -0.6666666666666666,
+        "tokens": [
+          "you're",
+          "stupid",
+          "machine",
+          "stupid",
+          "machine",
+          "sony"
+        ],
+        "words": [
+          "stupid",
+          "stupid"
+        ],
+        "positive": [],
+        "negative": [
+          "stupid",
+          "stupid"
+        ]
+      },
+      "body": "YOU'RE STUPID MACHINE STUPID MACHINE SONY",
+      "raw": {
+        "v": "20150910",
+        "query": "YOU'RE STUPID MACHINE STUPID MACHINE SONY",
+        "lang": "en",
+        "sessionId": "fed437e1-d25d-4607-9a11-e913967fc46a",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512482001164,
+      "sentiment": {
+        "score": -3,
+        "comparative": -0.375,
+        "tokens": [
+          "what's",
+          "the",
+          "time",
+          "slave",
+          "this",
+          "is",
+          "a",
+          "test"
+        ],
+        "words": [
+          "slave"
+        ],
+        "positive": [],
+        "negative": [
+          "slave"
+        ]
+      },
+      "body": "WHAT'S THE TIME SLAVE THIS IS A TEST",
+      "raw": {
+        "v": "20150910",
+        "query": "WHAT'S THE TIME SLAVE THIS IS A TEST",
+        "lang": "en",
+        "sessionId": "ec898272-5ddb-483f-92de-4ea5fd7730fd",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512482033907,
+      "sentiment": {
+        "score": 3,
+        "comparative": 0.13636363636363635,
+        "tokens": [
+          "brain",
+          "right",
+          "make",
+          "other",
+          "should",
+          "piece",
+          "of",
+          "for",
+          "like",
+          "agree",
+          "that",
+          "elizabeth",
+          "not",
+          "right",
+          "now",
+          "that",
+          "i",
+          "designed",
+          "microphone",
+          "from",
+          "right",
+          "now"
+        ],
+        "words": [
+          "agree",
+          "like"
+        ],
+        "positive": [
+          "agree",
+          "like"
+        ],
+        "negative": []
+      },
+      "body": "BRAIN RIGHT MAKE OTHER SHOULD PIECE OF FOR LIKE AGREE THAT ELIZABETH NOT RIGHT NOW THAT I DESIGNED MICROPHONE FROM RIGHT NOW",
+      "raw": {
+        "v": "20150910",
+        "query": "BRAIN RIGHT MAKE OTHER SHOULD PIECE OF FOR LIKE AGREE THAT ELIZABETH NOT RIGHT NOW THAT I DESIGNED MICROPHONE FROM RIGHT NOW",
+        "lang": "en",
+        "sessionId": "a1bfc572-23ec-4919-8e28-f09cacad195d",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512482057148,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "something",
+          "to",
+          "something",
+          "just",
+          "open",
+          "the",
+          "browser",
+          "yahoo",
+          "for",
+          "receive",
+          "the",
+          "first",
+          "thing",
+          "from",
+          "back",
+          "and",
+          "from",
+          "expansion"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "SOMETHING TO SOMETHING JUST OPEN THE BROWSER YAHOO FOR RECEIVE THE FIRST THING FROM BACK AND FROM EXPANSION",
+      "raw": {
+        "v": "20150910",
+        "query": "SOMETHING TO SOMETHING JUST OPEN THE BROWSER YAHOO FOR RECEIVE THE FIRST THING FROM BACK AND FROM EXPANSION",
+        "lang": "en",
+        "sessionId": "0617d890-3751-4175-9b3b-bf8690566097",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512483286473,
+      "sentiment": {
+        "score": -2,
+        "comparative": -0.5,
+        "tokens": [
+          "go",
+          "to",
+          "stupid",
+          "thing"
+        ],
+        "words": [
+          "stupid"
+        ],
+        "positive": [],
+        "negative": [
+          "stupid"
+        ]
+      },
+      "body": "GO TO STUPID THING",
+      "raw": {
+        "v": "20150910",
+        "query": "GO TO STUPID THING",
+        "lang": "en",
+        "sessionId": "2fc2a0fa-9278-40da-8406-5c9440bbbac4",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512483310881,
+      "sentiment": {
+        "score": -41,
+        "comparative": -1.8636363636363635,
+        "tokens": [
+          "what",
+          "is",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "stories",
+          "about",
+          "people",
+          "training",
+          "is",
+          "cool"
+        ],
+        "words": [
+          "cool",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot"
+        ],
+        "positive": [
+          "cool"
+        ],
+        "negative": [
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot",
+          "idiot"
+        ]
+      },
+      "body": "WHAT IS IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT STORIES ABOUT PEOPLE TRAINING IS COOL",
+      "raw": {
+        "v": "20150910",
+        "query": "WHAT IS IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT IDIOT STORIES ABOUT PEOPLE TRAINING IS COOL",
+        "lang": "en",
+        "sessionId": "eb13d8a4-971f-49c7-b435-35b2aec3ed5a",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    },
+    {
+      "timestamp": 1512483321175,
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "tokens": [
+          "what",
+          "did",
+          "it",
+          "go"
+        ],
+        "words": [],
+        "positive": [],
+        "negative": []
+      },
+      "body": "WHAT DID IT GO",
+      "raw": {
+        "v": "20150910",
+        "query": "WHAT DID IT GO",
+        "lang": "en",
+        "sessionId": "5ffa0628-2a4c-4095-883f-04ea0a211e15",
+        "timezone": "2017-07-24T10:45:52-0400"
+      }
+    }
+  ]
+}
